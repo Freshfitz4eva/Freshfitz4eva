@@ -1,6 +1,6 @@
 <h1>Hi,Fitz Leon <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, 
 
-<h2>👨‍💻 CyberSecurity Projects:</h2>
+<h2>👨‍💻 CyberSecurity Analyst:</h2>
 
 - <b>Training Video Active Directory Home LAB 
 - https://www.youtube.com/watch?v=MHsI8hJmggI
@@ -19,7 +19,10 @@
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 
-<h2> 🤳 Connect with me:</h2>
+<h2>Certifications</h2>
+![image](https://github.com/Freshfitz4eva/Freshfitz4eva/assets/134044510/fca06a6e-0fd9-43a9-bb3c-ab3ed2a92c1f)
+
+
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
