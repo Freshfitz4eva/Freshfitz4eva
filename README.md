@@ -20,8 +20,16 @@
 
 
 <h2>Certifications</h2>
-![image](https://github.com/Freshfitz4eva/Freshfitz4eva/assets/134044510/fca06a6e-0fd9-43a9-bb3c-ab3ed2a92c1f)
 
+(https://github.com/Freshfitz4eva/Freshfitz4eva/files/13772216/coursecompletion.1.pdf)
+
+(https://github.com/Freshfitz4eva/Freshfitz4eva/files/13772217/coursecompletion.2.pdf)
+
+(https://github.com/Freshfitz4eva/Freshfitz4eva/files/13772218/coursecompletion.3.pdf)
+
+(https://github.com/Freshfitz4eva/Freshfitz4eva/files/13772295/coursecompletion.4.pdf)
+
+(https://github.com/Freshfitz4eva/Freshfitz4eva/files/13772296/Official.CC.Course.Completion.Certificate_Official.ISC2.Certified.in.Cybersecurity.CC.Self-Paced.Training.-.1M_Leon.pdf)
 
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
