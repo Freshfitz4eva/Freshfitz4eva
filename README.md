@@ -31,6 +31,11 @@
 
 (https://github.com/Freshfitz4eva/Freshfitz4eva/files/13772296/Official.CC.Course.Completion.Certificate_Official.ISC2.Certified.in.Cybersecurity.CC.Self-Paced.Training.-.1M_Leon.pdf)
 
+[Coursera ZRCN3XH6LXNG.pdf](https://github.com/Freshfitz4eva/Freshfitz4eva/files/13790942/Coursera.ZRCN3XH6LXNG.pdf)
+[Coursera 99UWFZ97S88B.pdf](https://github.com/Freshfitz4eva/Freshfitz4eva/files/13790947/Coursera.99UWFZ97S88B.pdf)
+[Coursera 44WMKPR6PV8J.pdf](https://github.com/Freshfitz4eva/Freshfitz4eva/files/13790950/Coursera.44WMKPR6PV8J.pdf)
+
+
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
