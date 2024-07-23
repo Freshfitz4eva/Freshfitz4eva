@@ -1,9 +1,11 @@
-<h1>Hi,Fitz Leon <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, 
+<h1>Hi, I'm Fitz!!
+  
+<a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>,
 
-<h2>👨‍💻 CyberSecurity Analyst:</h2>
+<h2>👨‍💻Cyber Security Projects:</h2>
 
-- <b>Training Video Active Directory Home LAB 
-- https://www.youtube.com/watch?v=MHsI8hJmggI
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
