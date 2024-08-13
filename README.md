@@ -1,6 +1,6 @@
 <h1>Hi, I'm Fitz!!
   
-<a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>,
+<a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Analyst</a>,
 
 <h2>👨‍💻Cyber Security Projects:</h2>
 
