@@ -23,6 +23,8 @@
 
 <h2>Certifications</h2>
 
+(https://github.com/user-attachments/assets/c7046a72-b7c6-466d-ad76-d70701ced9a8)
+
 (https://github.com/Freshfitz4eva/Freshfitz4eva/files/13772216/coursecompletion.1.pdf)
 
 (https://github.com/Freshfitz4eva/Freshfitz4eva/files/13772217/coursecompletion.2.pdf)
