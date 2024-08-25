@@ -8,8 +8,8 @@
 {Creating a live Soc Honeynet in Azure} (https://Github.com/Freshfitz4eva/cloud-soc)
 
 <h2>💻 Information Technology Projects:</h2>
+<b>osticket/Help desk<b>
 
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 
 <h2>Certifications</h2>
