@@ -33,7 +33,7 @@ https://github.com/Freshfitz4eva/Freshfitz4eva/files/13772218/coursecompletion.3
 
 https://github.com/Freshfitz4eva/Freshfitz4eva/files/13772295/coursecompletion.4.pdf
 
-https://github.com/Freshfitz4eva/Freshfitz4eva/files/13772296/Official.CC.Course.Completion.Certificate_Official.ISC2.Certified.in.Cybersecurity.CC.Self-Paced.Training.-.1M_Leon.pdf)
+https://github.com/Freshfitz4eva/Freshfitz4eva/files/13772296/Official.CC.Course.Completion.Certificate_Official.ISC2.Certified.in.Cybersecurity.CC.Self-Paced.Training.-.1M_Leon.pdf
 
 [Coursera ZRCN3XH6LXNG.pdf](https://github.com/Freshfitz4eva/Freshfitz4eva/files/13790942/Coursera.ZRCN3XH6LXNG.pdf)
 [Coursera 99UWFZ97S88B.pdf](https://github.com/Freshfitz4eva/Freshfitz4eva/files/13790947/Coursera.99UWFZ97S88B.pdf)
