@@ -8,8 +8,8 @@
 {Creating a live Soc Honeynet in Azure} (https://Github.com/Freshfitz4eva/cloud-soc)
 
 <h2>💻 Information Technology Projects:</h2>
-<b>osticket/Help desk<b>
-
+<b>0sticket/Help Desk<b>
+(https://Github.com/Freshfitz4eva/0sTicket.git)
 
 
 <h2>Certifications</h2>
