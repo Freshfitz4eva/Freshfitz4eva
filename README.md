@@ -7,7 +7,7 @@
 <b>Azure/Cloud Projects</b>
 {Creating a live Soc Honeynet in Azure} 
 
-(https://Github.com/Freshfitz4eva/cloud-soc)
+(https://Github.com/Freshfitz4eva/Cloud-soc)
 
 
 <h2>💻 Information Technology Projects:</h2>
