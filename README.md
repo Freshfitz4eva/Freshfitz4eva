@@ -5,10 +5,15 @@
 <h2>👨‍💻Cyber Security Projects:</h2>
 
 <b>Azure/Cloud Projects</b>
-{Creating a live Soc Honeynet in Azure} (https://Github.com/Freshfitz4eva/cloud-soc)
+{Creating a live Soc Honeynet in Azure} 
+
+(https://Github.com/Freshfitz4eva/cloud-soc)
+
 
 <h2>💻 Information Technology Projects:</h2>
-<b>0sticket/Help Desk<b>
+
+<b>0sticket/Help Desk<b> (Pre & Post installations & Common Problems)
+
 (https://Github.com/Freshfitz4eva/0sTicket.git)
 
 
@@ -40,5 +45,5 @@ Here are some ideas that Iam working on:
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 📫 ow to reach me:Fitzleon@hotmail.com
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...Reading,Basketball
 
