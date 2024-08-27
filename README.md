@@ -1,6 +1,6 @@
 <h1>Hi, I'm Fitz!!
   
-<h2>Cybersecurity Analyst</a>,
+<h2>Cybersecurity Analyst</a>, IT
 
 <h2>👨‍💻Cyber Security Projects:</h2>
 
