@@ -1,4 +1,4 @@
-<h1> Hi, I'm Fitz!!<!-- GIF --> <img align="right" height="100" width="105" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />  
+<h1> Hi, I'm Fitz!!<!-- GIF --> <img align="right" height="102" width="105" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />  
 
 <h2>Cybersecurity Analyst</a>
 
