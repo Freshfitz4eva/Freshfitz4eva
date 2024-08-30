@@ -1,4 +1,4 @@
-<h1>Hi, I'm Fitz!!<!-- GIF --> <img align="right" height="100" width="110" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />  
+<h1>Hi, I'm Fitz!!<!-- GIF --> <img align="right" height="110" width="140" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />  
 
 <h2>Cybersecurity Analyst</a>
 
@@ -8,7 +8,6 @@
 {Creating a live Soc Honeynet in Azure} 
 
 (Https://Github.com/Freshfitz4eva/Cloud-soc)
-
 
 <h2>💻 Information Technology Projects:</h2>
 
