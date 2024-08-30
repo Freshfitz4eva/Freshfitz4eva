@@ -37,13 +37,11 @@ Https://github.com/Freshfitz4eva/Freshfitz4eva/files/13772296/Official.CC.Course
 [Coursera 44WMKPR6PV8J.pdf](https://github.com/Freshfitz4eva/Freshfitz4eva/files/13790950/Coursera.44WMKPR6PV8J.pdf)
 
 
-<h2> 🤳 Connect with me:</h2>
+<h2> 📱 Connect with me:</h2>
 
 - 🌱 I’m currently learning **from WGU**
 
 - 🤝 I’m looking for help with **ethical hacking**
-
-- 💬 Ask me about **Learning and growing everyday**
 
 - 📫 How to reach me **Fitzleon@hotmail.com**
 
