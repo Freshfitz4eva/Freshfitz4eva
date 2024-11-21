@@ -44,6 +44,9 @@ Https://github.com/Freshfitz4eva/Freshfitz4eva/files/13772296/Official.CC.Course
 
 (https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/4nAmAbTbHbnGMNSyo/2ZFnEGEDKTQMtEv9C_4nAmAbTbHbnGMNSyo_2GwnTh6ud8ZtdsN2M_1732221067153_completion_certificate.pdf)
 
+(https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mfxGwGDp6WkQmtmTf/vcKAB5yYAgvemepGQ_mfxGwGDp6WkQmtmTf_2GwnTh6ud8ZtdsN2M_1731362354884_completion_certificate.pdf)
+
+
 📱 Connect with me:</h2>
 
 - 🌱 I’m currently learning **from WGU**
