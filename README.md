@@ -34,10 +34,17 @@ Https://github.com/Freshfitz4eva/Freshfitz4eva/files/13772296/Official.CC.Course
 
 [Coursera 99UWFZ97S88B.pdf](https://github.com/Freshfitz4eva/Freshfitz4eva/files/13790947/Coursera.99UWFZ97S88B.pdf)
 
-[Coursera 44WMKPR6PV8J.pdf](https://github.com/Freshfitz4eva/Freshfitz4eva/files/13790950/Coursera.44WMKPR6PV8J.pdf)
+[Coursera 44WMKPR6PV8J.pdf](https://github.com/Freshfitz4eva/Freshfitz4eva/files/13790950/Coursera.44WMKPR6PV8J.pdf) 
 
+{Forage job simulation}
 
-<h2> 📱 Connect with me:</h2>
+(https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/M6JGAwZ52SMusMEcK/RNhbu8QnDzthwynEf_M6JGAwZ52SMusMEcK_2GwnTh6ud8ZtdsN2M_1732222809889_completion_certificate.pdf)
+
+(https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/gCW7Xki5Y3vNpBmnn/yTszJTvkHFBH6zAn3_gCW7Xki5Y3vNpBmnn_2GwnTh6ud8ZtdsN2M_1732220683379_completion_certificate.pdf)
+
+(https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/4nAmAbTbHbnGMNSyo/2ZFnEGEDKTQMtEv9C_4nAmAbTbHbnGMNSyo_2GwnTh6ud8ZtdsN2M_1732221067153_completion_certificate.pdf)
+
+📱 Connect with me:</h2>
 
 - 🌱 I’m currently learning **from WGU**
 
